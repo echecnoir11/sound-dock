@@ -1,12 +1,5 @@
 # ++sound@dock — UI @@ennuienoir
 
-Petit panneau flottant macOS (barre des menus) qui applique des effets en direct
-au son système ou à un fichier audio : vitesse 0,5×–2× avec pitch indépendant,
-bass boost, pitch, reverb, égaliseur 3 bandes, presets, visualiseur.
-
-Version 2.0 : refonte graphique reprenant le design d'[@@ennuienoir](https://github.com/echecnoir11/ennuienoir)
-(light / noir, barres « gooey », Helvetica Neue Thin + JetBrains Mono).
-
 <p>
   <img src="docs/apercu-light.png" width="300" alt="Panneau en mode light">
   <img src="docs/apercu-noir.png" width="300" alt="Panneau en mode noir">
